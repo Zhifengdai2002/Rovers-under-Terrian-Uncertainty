@@ -64,13 +64,6 @@ The project produces:
 - tracking error plots
 - wheel torque plots
 
-## Example Figures
-
-You can place result images in a `figures/` folder and display them here.
-
-```markdown
-![Baseline vs Optimized Trajectory](figures/trajectory_comparison.png)
-![Tracking Error](figures/tracking_error.png)
 
 ## How to Run
 
